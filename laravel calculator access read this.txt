@@ -1,0 +1,18 @@
+extract new laravel.rar file
+go to the extracted file from command prompt.
+and use a command of php artisan serve
+
+this will open a laravel home page at the url http://127.0.0.1:8000/.
+
+then use this url http://127.0.0.1:8000/calculator
+
+this will open a calculator.
+
+enter first number 
+then enter second number
+now use operator whichever you need then click calculate.
+
+result will be displayed.
+
+
+thank you.
